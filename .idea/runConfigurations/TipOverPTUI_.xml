@@ -1,0 +1,16 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="TipOverPTUI " type="Application" factoryName="Application" activateToolWindowBeforeRun="false">
+    <option name="MAIN_CLASS_NAME" value="puzzles.tipover.ptui.TipOverPTUI" />
+    <module name="BFSPuzzles" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data/tipover/" />
+    <extension name="coverage">
+      <pattern>
+        <option name="PATTERN" value="puzzles.tipover.model.*" />
+        <option name="ENABLED" value="true" />
+      </pattern>
+    </extension>
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
